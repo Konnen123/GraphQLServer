@@ -1,0 +1,6 @@
+﻿CREATE TABLE IF NOT EXISTS brand(
+    Id UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+    Name VARCHAR(255) NOT NULL,
+    Description TEXT,
+    CreatedAt TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+)

@@ -1,0 +1,12 @@
+E:\Github repos\GraphQLServer\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.deps.json
+E:\Github repos\GraphQLServer\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.dll
+E:\Github repos\GraphQLServer\Catalog.Domain\bin\Debug\net8.0\Catalog.Domain.pdb
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.AssemblyReference.cache
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfoInputs.cache
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.AssemblyInfo.cs
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.csproj.CoreCompileInputs.cache
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.dll
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\refint\Catalog.Domain.dll
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\Catalog.Domain.pdb
+E:\Github repos\GraphQLServer\Catalog.Domain\obj\Debug\net8.0\ref\Catalog.Domain.dll

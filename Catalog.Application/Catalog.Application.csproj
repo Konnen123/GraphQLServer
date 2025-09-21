@@ -11,9 +11,12 @@
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="Dapper" Version="2.1.66" />
-      <PackageReference Include="Microsoft.Extensions.Configuration" Version="8.0.0" />
-      <PackageReference Include="Npgsql" Version="8.0.7" />
+      <PackageReference Include="MediatR" Version="13.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Use Cases\CommandHandlers\" />
+      <Folder Include="Use Cases\Commands\" />
     </ItemGroup>
 
 </Project>

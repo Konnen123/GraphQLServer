@@ -1,4 +1,4 @@
-﻿INSERT INTO product_type(Name, Description) VALUES
+﻿INSERT INTO product_types(Name, Description) VALUES
 ('Electronics', 'Devices such as smartphones, laptops, and tablets.'),
 ('Clothing', 'Apparel including shirts, pants, and dresses.'),
 ('Home Appliances', 'Household items like refrigerators, ovens, and washers.'),
